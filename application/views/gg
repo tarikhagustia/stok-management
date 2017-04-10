@@ -1,0 +1,51 @@
+<style type="text/css">
+body {
+	background-color: #000;
+}
+</style>
+
+<body style="text-align: left; color: #FFF;"><p>Good Night, Yogya</p>
+<p>we're DECRYPTON team, we want to Apologize for what Happened to your server, we do not intend deface your &quot;LOCAL&quot; web site, we only trying our Algorithm on your server, We apologize profusely for our action :</p>
+<p>here we xplain what happened.. (in indonesian language using Bing transalator ) :)</p>
+<?
+$text = "pertama kami akan menjelaskan apa yang tejadi pada anda server, didalam forum deepweb kami ada yang menghubngi kami lewat surel dia perempuan dulu adalah pekerjaan wanita pada yogya , dia keluar dan dia beri kami informasi beberapa yogya tentang kami tidak tau apa dia maksud dengan beri kami infromasi berikut tentang informasi kami dapat";
+
+$text2 = "infromasi surel, informasi jenis jaringan, informasi IP, dan password jumlah lainnya";
+$text3 = "pertama kami mendecrypt pesan anda melalui jaringan wan, berupa mesin transmitter singnal, kami mendapat sejumlah Typologi jaringan di tempat anda stelah itu kami mendapat sejumlah IP router dan kami pelajari jenis jaringan ditempat anda setelah dapat kamipun menScan kemungkinan IP yang rawan dan binggo kami mendapatkan ip rentan yaitu 45,48,16,67,13 dalam beberapa hari kami mencoba koneksi secara paksa menggunakan ip 17 melalui sinyal VPN didalam beberapa ip rentan terdapat dua kecepatan data yang stabil yaitu 13,48, kami mencoba masuk ke router nya tetapi algooritma kami belum sampai tidak sampai ditisitu kami melakukan scanning port terhadap tipe 48 dengan Nmap binggo kami mendapatkan kerentanan ditempat anda yaitu dengan radmin port 4899 pertama kami scanning daerah 48 dan kami mendapatkan beberapa informasi seperti ip pembeli penerima mgr dan edp pemroses data maybe kami melakukan scanning terhadap daerah 13 dan nampaknya sama menyimpulkan dalam layout jaringan anda jika ip 21 adalalah proces data jika dinegara kami disebut sebagai penyimpanan data untuk masuk ke jaringan kamimenggunakan C99 backdoor kami tempel pada 48 21 dan 50 21 kami belum mendapat informasi lainnya dan kami terus mencoba lagi hal yang minim dapat informasi dari demikian kami mencoba tanam pada 13 22 dengan koneksi radmin kamipun merubah Log pada radmin dan binggo kami mendapatkan berkas beruma PARIRIMBON setelah kami baca kami paham bahwa ada alamat sever yang utama dan sandinya demi dunia it dan profesi kita kami tidak mencuri apa data yang ada dan kami mendapatkan daftar alamat berbentuk microsoft cepat xls dari file diatas kami dapat alamat 31 dimana semua tidak alamat tersambung internet dengan dan menguntungkan alamat 22 ada perangkat lunak grupliahat untuk id alamat 22 kami mnegacak sandi sehingga dapat adalah satu sampai enam kami melakukan beberapa remot dari negara kami tidak langsung dari sinyal kami melakukan ssh pada beberapa server rentan dan kami menggunakan ubuntu sebagai alamat 31 untuk penggunaan kami menggunakan hampir beberapa proses dan gagal kami melakukan hydra ke alamat 159 dan 28 dan binggo kami dapat sandi yang bersifat umum dan tidak aneh kami masuk ke alamat 28 untuk sekedar melihat dan kami HANYA INDEX GANTI tidak dengan yang lain rubah";
+
+$text4 = "kami juga memanipulasi log pada gruplihat untuk mengelabui banyak masih yang kami ceritakan harus pada intinya perbuataan kami pasti merugikan seseorang diluar sana khususnya pengguna alamat 13,48,50 kami mohon maaf yang besar";
+
+
+
+?>
+
+<p></p>
+
+<p></p>
+<table width="300" border="0" align="center">
+  <tr>
+    <td width="200">&nbsp;&nbsp;&nbsp;
+    <code>
+    <p><?php echo base64_encode($text); ?></p>
+    <p><?php echo base64_encode($text2); ?></p>
+    <p><?php echo base64_encode($text3); ?></p>
+    <p><?php echo base64_encode($text4); ?></p>
+    </code></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p></p>
+<p>&nbsp;</p>
+<p>masih banyak kegiatan yang kami lakukan pada persusaan sejenis dan kami TIDAK MENCURI APAPUN</p>
+<p>&nbsp;</p>
+<p>KAMI PENGANUT DAN PENCINTA TEKNOLOGI</p>
+<p>&nbsp;</p>
+<p>Sicnly,</p>
+<p>&nbsp;</p>
+<p>Decrytor</p>
+
+<?php
+
+$a = "aW5mcm9tYXNpIHN1cmVsLCBpbmZvcm1hc2kgamVuaXMgamFyaW5nYW4sIGluZm9ybWFzaSBJUCwgZGFuIHBhc3N3b3JkIGp1bWxhaCBsYWlubnlh";
+echo base64_decode($a);
+?>
